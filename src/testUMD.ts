@@ -1,0 +1,5 @@
+
+
+globalUMD.globalNumber
+
+"string".say()

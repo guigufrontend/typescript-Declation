@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "baseUrl": "./",
+        "paths": {
+            "*":["types/*"]
+        },
+        "esModuleInterop": true
+      },
+}
